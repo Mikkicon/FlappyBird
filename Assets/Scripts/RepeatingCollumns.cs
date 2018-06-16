@@ -13,6 +13,7 @@ public class RepeatingCollumns : MonoBehaviour {
     }
     private void reposition()
     {
+        
         Vector2 offset = new Vector2(horizontallength * 17f, 0);
         transform.position = (Vector2)transform.position + offset;
     }
