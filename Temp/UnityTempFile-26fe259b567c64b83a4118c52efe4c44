@@ -183,7 +183,10 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
+'Assets/Scripts/Bird.cs'
 'Assets/Scripts/Column.cs'
+'Assets/Scripts/DeathMenu.cs'
+'Assets/Scripts/DeathZone.cs'
 'Assets/Scripts/ObjectPool.cs'
 'Assets/Scripts/RepeatingBackground.cs'
 'Assets/Scripts/RepeatingCollumns.cs'
